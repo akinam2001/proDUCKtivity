@@ -138,8 +138,9 @@ body {
 
 #results_paragraph {
   background-color: #FFEB94;
-  margin: 2vw;
+  margin-left: 12vw;
   overflow: auto;
+  margin: 2vw;
 }
 
 #hehe {
